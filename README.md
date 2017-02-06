@@ -23,7 +23,7 @@ module.exports = {
 };
 ```
 
-This will generate a `splitting-manifest.json` file in your root output directory with a mapping of all source file names to there aggressive splitting output file, for example:
+This will generate a `splitting-manifest.json` file in your root output directory with a mapping of all source file names to their aggressive splitting output files, for example:
 ```
 {
   "vendors": [
