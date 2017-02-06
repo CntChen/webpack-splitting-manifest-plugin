@@ -3,6 +3,13 @@ Webpack plugin for generating aggressive splitting manifest.
 
 Usfull when using [webpack.optimize.AggressiveSplittingPlugin](https://github.com/webpack/webpack/tree/master/examples/http2-aggressive-splitting).
 
+## install
+```
+$ npm webpack-splitting-manifest-plugin
+// or
+$ npm install git://github.com/CntChen/webpack-splitting-manifest-plugin.git
+```
+
 ## Usage
 In your `webpack.config.js`
 ```
