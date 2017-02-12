@@ -1,16 +1,16 @@
 {
   "name": "webpack-splitting-manifest-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Webpack plugin for generating aggressive splitting manifest.",
   "main": "index.js",
   "author": "CntChen",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/danethurber/webpack-splitting-manifest-plugin.git"
+    "url": "https://github.com/CntChen/webpack-splitting-manifest-plugin.git"
   },
   "bugs": {
-    "url": "https://github.com/danethurber/webpack-splitting-manifest-plugin/issues"
+    "url": "https://github.com/CntChen/webpack-splitting-manifest-plugin/issues"
   },
-  "homepage": "https://github.com/danethurber/webpack-splitting-manifest-plugin"
+  "homepage": "https://github.com/CntChen/webpack-splitting-manifest-plugin"
 }
